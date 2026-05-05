@@ -1,0 +1,3 @@
+cd "C:\Users\IOT1\Desktop\fanuc\fwlib-master"
+& "C:\Users\IOT1\AppData\Local\Programs\Python\Python313-32\python.exe" fanuc_read.py
+& "C:\Users\IOT1\AppData\Local\Programs\Python\Python313-32\python.exe" "C:\Users\IOT1\Desktop\fanuc\fwlib-master\fanuc_read.py"
